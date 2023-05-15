@@ -1,3 +1,5 @@
+You need to install this to run TickClick:
+
 sudo apt install python3 python3-tk
 sudo apt install python3-pip
 sudo pip3 install pillow
